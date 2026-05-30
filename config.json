@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvync",
+        "uuid": 4800369,
+        "checksum": "b0za5k"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
